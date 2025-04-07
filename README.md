@@ -31,3 +31,10 @@ make jupyter
 ```  
 This will open up the jupyter notebook workspace. 
 
+## Closing the container
+Once all done copy and paste the command below in terminal:  
+```
+make stop
+```
+This will stop all containers. In addition the local web browser where jupyter is being hosted can be shut down at this time.  
+
